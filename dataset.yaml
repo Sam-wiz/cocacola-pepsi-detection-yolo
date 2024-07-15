@@ -1,0 +1,5 @@
+train: ../dataset/train_images/  
+val: ../dataset/test_images/     
+
+nc: 2                         
+names: ['Pepsi', 'CocaCola']  
