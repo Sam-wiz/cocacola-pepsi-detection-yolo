@@ -1,0 +1,6 @@
+train: dataset/dataset/images/train
+val: dataset/dataset/images/val
+test: dataset/dataset/images/test
+
+nc: 2
+names: ['Coca-cola', 'Pepsi']
