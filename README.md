@@ -1,6 +1,4 @@
-Certainly! Here's a README file based on the colab provided in your repository:
 
----
 
 # Coca-Cola and Pepsi Logo Detection with YOLOv5
 
